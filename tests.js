@@ -6,7 +6,7 @@ if (index.name === "Susan") {
     console.log("Expected: Susan, Received: "+index.name)
 }
 
-if (index.name === "Joe"){
+if (index.name1 === "Joe"){
   console.log("The name is correct")
 } else {
   console.log("Expected: Joe, Recieved: "+index.name)
